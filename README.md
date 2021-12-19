@@ -12,7 +12,7 @@ The outcomes for theatre crowdfunding based on launch dates looks to have the hi
 ### Analysis of Outcomes Based on Goals
 The conclusion that can be made from the outcomes based on crowdfunding monetary goals is that overall, the lower the amount of the goal, the higher the success rate of the project. The limitation on the data set is the inverted graph tells the same information. The higher the goal the lower the success rate. There is a increase in success rate from 35k-45K but the sample size consists of 9 sampes which, compared to the rest of the data is less than 1%. Overall, success rate trends down the larger the monetary goal.
 
-![Outcome_vs_Goals](https://user-images.githubusercontent.com/95573310/146690203-3b8fb3d3-9145-4ceb-bc6e-a15fbe5b25ad.png)
+![Outcome_vs_Goals](https://user-images.githubusercontent.com/95573310/146690296-abb28b30-eacb-4735-aaf4-158b8ff6630e.png)
 
 ### Challenges and Difficulties Encountered
 When writing the SUMIFS formula for the "outcomes based on goals" sheet I had to look up what I was doing wrong and found out that I needed parentheses aound the number when hardcoded in to the formual. I then tried to format cells A2-A13 in way that I could use that cell in the SUMIFS formula but realized I would have to create at least one more column to include one of the two goal thresholds. 
