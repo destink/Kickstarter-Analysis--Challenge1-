@@ -10,7 +10,7 @@ The outcomes for theatre crowdfunding based on launch dates looks to have the hi
 
 ![Theater_Outcomes_vs_Launch ](https://user-images.githubusercontent.com/95573310/146690195-b68c2099-39f4-4004-ab33-85a116743868.png)
 ### Analysis of Outcomes Based on Goals
-The conclusion that can be made from the outcomes based on crowdfunding monetary goals is that overall, the lower the amount of the goal, the higher the success rate of the project. The limitation on the data set is the inverted graph tells the same information. The higher the goal the lower the success rate. There is a increase in success rate from 35k-45K but the sample size consists of 9 sampes which, compared to the rest of the data is less than 1%. Overall, success rate trends down the larger the monetary goal.
+The conclusion that can be made from the outcomes based on crowdfunding monetary goals is that overall, the lower the amount of the goal, the higher the success rate of the project. The limitation on the data set is the inverted graph tells the same information. The higher the goal the lower the success rate. There is a increase in success rate from 35k-45K but the sample size consists of 9 sampes which, compared to the rest of the data is less than 1%. Overall, success rates of kickstarters decrease the larger the monetary goal of funding.
 
 ![Outcome_vs_Goals](https://user-images.githubusercontent.com/95573310/146690296-abb28b30-eacb-4735-aaf4-158b8ff6630e.png)
 
