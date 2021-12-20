@@ -15,9 +15,9 @@ The conclusion that can be made from the outcomes based on crowdfunding monetary
 ![Outcome_vs_Goals](https://user-images.githubusercontent.com/95573310/146690296-abb28b30-eacb-4735-aaf4-158b8ff6630e.png)
 
 ### Challenges and Difficulties Encountered
-When writing the SUMIFS formula for the "outcomes based on goals" sheet I had to look up what I was doing wrong and found out that I needed parentheses aound the number when hardcoded in to the formual. I then tried to format cells A2-A13 in way that I could use that cell in the SUMIFS formula but realized I would have to create at least one more column to include one of the two goal thresholds. 
+When writing the SUMIFS formula for the "outcomes based on goals" sheet I had to look up what I was doing wrong and found out that I needed parentheses around the number when hardcoded in to the formual. I then tried to format cells A2-A13 in way that I could use that cell in the SUMIFS formula but realized I would have to create at least one more column to include one of the two goal thresholds. 
 ## Results
-Analyzing the results of these two tables and the data set it seems that the ideal crowdfunding project would be created in May and would have a relatively small financial goal to ensure a higher success rate. Logically this make sense as ususally the higher the financial obligations are to create a business plan the higher the risk. 
+Analyzing the results of these two tables and the data set, which contains information from 2009 - 2017, it seems that the ideal crowdfunding project would be created in May and would have a relatively small financial goal to ensure a higher success rate. Logically this make sense as ususally the higher the financial obligations are to create a business plan the higher the risk. 
 
 
 
