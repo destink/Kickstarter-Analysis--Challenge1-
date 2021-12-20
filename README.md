@@ -1,12 +1,12 @@
 # Kickstarter-Analysis-Challenge-1
 ## Overview of Project 
-Analyze the kickstarter data set which contains information from 2009 - 2017 on the outcomes of crowdfunding projects from a variety of industries. 
+Analyze the kickstarter data set on the outcomes of crowdfunding projects from a variety of industries. 
 ### Purpose
-To analize the kickstarter data set for Louise to help determine how the play Fever compared the successful outcomes of other theatrical kickstarters based upon there launch date and to analysis the overall outcomes of kickstarters based upon their inital monetary goals.
+To analize the kickstarter data set for Louise to help determine how the play Fever compared to the successful outcomes of other theatrical kickstarters based upon there launch date and to analysis the overall outcomes of kickstarters based upon their inital monetary goals.
 ## Analysis and Challenges
-One glaringing issue in the data set is that the currency for each country doesn't seem to have been converted to a common number. When comparing moneies we need to be certain we are comparing apples to apples and that the goals and pedges are compared to each other with the same currency. 
+One glaringing issue in the data set is that the currency for each country doesn't seem to have been converted to a common number. When comparing moneies we need to be certain we are comparing apples to apples and that the goals and pedges are compared to each other using the same exchange rate. 
 ### Analysis of Outcomes Based on Launch Date
-The outcomes for theatre crowdfunding based on launch dates looks to have the highest success rate when started in May. From that point June then and July are the second and third best months to start a crowdfunding project, respectively. It also seems that the amount of failed and canceled projects seem to be relatively consistent throughout the year. These months also have the highest number of crowdfunding projests started which would affect the overall ammount of all the categorical outputs. Another conclusion that  can be made from this chart is that....
+The outcomes for theatre crowdfunding based on launch dates looks to have the highest success rate when started in May. From that point June then and July are the second and third best months to start a crowdfunding project, respectively. It also seems that the amount of failed and canceled projects seem to be relatively consistent throughout the year. These months also have the highest number of crowdfunding projests started which would affect the overall ammount of all the categorical outputs. Another conclusion that  can be drawn from this chart is that the successful outcomes that started in December had essentially the same number of failed outcomes. It seem this is the least best time to create a kickstarter.  
 
 ![Theater_Outcomes_vs_Launch ](https://user-images.githubusercontent.com/95573310/146690195-b68c2099-39f4-4004-ab33-85a116743868.png)
 ### Analysis of Outcomes Based on Goals
@@ -17,7 +17,7 @@ The conclusion that can be made from the outcomes based on crowdfunding monetary
 ### Challenges and Difficulties Encountered
 When writing the SUMIFS formula for the "outcomes based on goals" sheet I had to look up what I was doing wrong and found out that I needed parentheses around the number when hardcoded in to the formual. I then tried to format cells A2-A13 in way that I could use that cell in the SUMIFS formula but realized I would have to create at least one more column to include one of the two goal thresholds. 
 ## Results
-Analyzing the results of these two tables and the data set, which contains information from 2009 - 2017, it seems that the ideal crowdfunding project would be created in May and would have a relatively small financial goal to ensure a higher success rate. Logically this make sense as ususally the higher the financial obligations are to create a business plan the higher the risk. 
+Analyzing the results of these two tables and the data set, which contains information from 2009 - 2017, it seems that the ideal crowdfunding project, for theatrical events, would be created in May and would have a relatively small financial goal to ensure a higher success rate. Another benificial chart would have displayed the average amount pledged, (once currency was converted) to the goal ratio, per category, to create a benchmark for Louise to set for her next kickstarter. 
 
 
 
