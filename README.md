@@ -4,7 +4,7 @@ Analyze the kickstarter data set on the outcomes of crowdfunding projects from a
 ### Purpose
 To analize the kickstarter data set for Louise to help determine how the play Fever compared to the successful outcomes of other theatrical kickstarters based upon there launch date and to analysis the overall outcomes of kickstarters based upon their inital monetary goals.
 ## Analysis and Challenges
-One glaringing issue in the data set is that the currency for each country doesn't seem to have been converted to a common number. When comparing moneies we need to be certain we are comparing apples to apples and that the goals and pedges are compared to each other using the same exchange rate. 
+One glaringing issue in the data set is that the currency for each country doesn't seem to have been converted to the same dollar value. When comparing moneies we need to be certain we are comparing apples to apples and that the goals and pedges are compared to each other using the same exchange rate. 
 ### Analysis of Outcomes Based on Launch Date
 The outcomes for theatre crowdfunding based on launch dates looks to have the highest success rate when started in May. From that point June then and July are the second and third best months to start a crowdfunding project, respectively. It also seems that the amount of failed and canceled projects seem to be relatively consistent throughout the year. These months also have the highest number of crowdfunding projests started which would affect the overall ammount of all the categorical outputs. Another conclusion that  can be drawn from this chart is that the successful outcomes that started in December had essentially the same number of failed outcomes. It seem this is the least best time to create a kickstarter.  
 
