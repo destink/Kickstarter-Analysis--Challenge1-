@@ -17,14 +17,7 @@ The conclusion that can be made from the outcomes based on crowdfunding monetary
 ### Challenges and Difficulties Encountered
 When writing the SUMIFS formula for the "outcomes based on goals" sheet I had to look up what I was doing wrong and found out that I needed parentheses around the number when hardcoded into the formula. I then tried to format cells A2-A13 in a way that I could use that cell in the SUMIFS formula but realized I would have to create at least one more column to include one of the two goal thresholds. 
 ## Results
-Analyzing the results of these two tables and the data set, which contains information from 2009 - 2017, it seems that the ideal crowdfunding project, for theatrical events, would be created in May and would have a relatively small financial goal to ensure a higher success rate. Another beneficial chart would have displayed the average amount pledged (once currency was converted) to the goal ratio, per category, to create a benchmark for Louise to set for her next kickstarter. 
+Analyzing the results of these two tables and the data set, which contains information from 2009 - 2017, it seems that the ideal crowdfunding project, for theatrical events, would be created in May and would have a relatively small financial goal to ensure a higher success rate. Another beneficial chart would have displayed the average amount pledged (once currency was converted) to the goal ratio, per category, to create a benchmark for Louise to set for her next kickstarter. Another beneficial chart to help Louise analyze this data would have been to breakdown the average amount donated by category per country to see if there would an ideal country for Louise to start their next theater kickstarter.
 
 
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
